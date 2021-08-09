@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="score_count">of 6 matches</string>
+</resources>
